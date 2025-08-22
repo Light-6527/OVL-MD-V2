@@ -1,5 +1,4 @@
 name: OVL-MD Bot CI
-
 on:
   push:
     branches: [main]
